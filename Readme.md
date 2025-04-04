@@ -1,4 +1,3 @@
-```markdown
 # Demo Evershop - Search Functionality Testing
 
 ## Overview
@@ -54,4 +53,3 @@ This project tests the **search functionality** of the e-commerce platform [Demo
 - **Test Case Preparation Date**: 30 January 2025  
 
 For further details, contact Md. Tahsin Islam Molla.
-```
